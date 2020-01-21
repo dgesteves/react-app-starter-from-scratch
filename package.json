@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "react-app"
+    "url": "https://github.com/dgesteves/react-app-starter-from-scratch.git"
   },
   "keywords": [
     "react",
